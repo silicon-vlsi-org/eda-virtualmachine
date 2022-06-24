@@ -12,7 +12,7 @@ This section contains instruction on how to download and isntall Virtual Box (Vi
   - The download will be a CD/DVD image called an **ISO image** (eg. lxle-18043-64.iso) that you save it on your computer (eg. C:\Users\<username>\Downloads)
 - Follow the steps below or check [this PDF](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf) for step-by-instructions with screenshots.
 
-** CREATING A NEW VIRTUAL MACHINE
+**CREATING A NEW VIRTUAL MACHINE**
 
 - Start Virtual Box and click `New` and fill the required information
   - Name: <ANY NAME>
@@ -29,7 +29,7 @@ This section contains instruction on how to download and isntall Virtual Box (Vi
   - the size (eg. 20GB)
 - Now your Virtual Machine is configured and ready to be host an operating system (OS).
 
-** INSTALLING LINUX ON THE VIRTUAL MACHINE
+**INSTALLING LINUX ON THE VIRTUAL MACHINE**
 
 - Before starting the installation, load the ISO image (eg. lxle-18043-64.iso) in the optical drive:
   - Open Virtual Box and select the new virtual machine just created and select `Settings-> Storage -> Controller:IDE` and select `Add optical drive` and browse to location where the linux ISO file is and select it.
