@@ -3,8 +3,8 @@ Setting up Virtual Machines (Virtual Box) and setup open source EDA tools
 
 # TABLE OF CONTENT
 
-- [INSTALLING LXLE ON VIRTUAL BOX](#installing_lxle_on_virtual_box)
-  - [CREATING A NEW VIRTUAL MACHINE](#creating_a_new_virtual_machine)
+- [INSTALLING LXLE ON VIRTUAL BOX](#installing-lxle-on-virtual-box)
+  - [CREATING A NEW VIRTUAL MACHINE](#creating-a-new-virtual-machine)
   - [INSTALLING LINUX ON THE VIRTUAL MACHINE](#installing-linux-on-the-virtual-machine)
 - [DOWNLOAD AND SETUP THE CAD TOOLS](#DOWNLOAD-AND-SETUP-THE-CAD-TOOLS)
 
