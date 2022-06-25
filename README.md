@@ -12,10 +12,11 @@ Setting up Virtual Machines (Virtual Box) and setup open source EDA tools
 
 This section contains instruction on how to download and isntall Virtual Box (Virtual Machine) on a Windows/MAC/etc machine and then install a lightweight Ubuntu-based Linux distribution called LXLE.
 
-- Download **Virtual Box** from http://www.virtualbox.org  for your particular desktop (Windows/Mac/etc)
+- Download **[Virtual Box](http://www.virtualbox.org)** from https://www.virtualbox.org/wiki/Downloads for your particular desktop (Windows/Mac/etc)
   - Install it using the default settings.
-- Download the **Linux distribution LXLE** from   http://www.lxle.net/download  appropriate for your system (32-bit/64-bit).
+- Download the **Linux distribution LXLE** from http://www.lxle.net/download  appropriate for your system eg. [LXLE Focal 64bit](https://sourceforge.net/projects/lxle/files/Final/OS/Focal-64/LXLE-Focal-Release.iso/download).
   - The download will be a CD/DVD image called an **ISO image** (eg. lxle-18043-64.iso) that you save it on your computer (eg. C:\Users\<username>\Downloads)
+  - **NOTE** The ISO file is about 1.8GB in size!!
 - Follow the steps below or check [this PDF](https://www.dropbox.com/s/2lovix0ntsw8yfw/2020-0917-Open%20Source%20EDA%20Setup.pdf) for step-by-instructions with screenshots.
 
 ## CREATING A NEW VIRTUAL MACHINE
