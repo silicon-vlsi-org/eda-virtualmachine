@@ -14,7 +14,7 @@ This section contains instruction on how to download and isntall Virtual Box (Vi
 
 - Download **[Virtual Box](http://www.virtualbox.org)** from https://www.virtualbox.org/wiki/Downloads for your particular desktop (Windows/Mac/etc)
   - Install it using the default settings.
-- Download the **Linux distribution LXLE** from this [Google Drive Link](https://drive.google.com/file/d/1KPg3JGKaEwIRMvic6YJXuj9sm0DQC5e8/view?ts=62b7edd3)
+- Download the **Linux distribution LXLE 18.03** from this SourceForge location: http://downloads.sourceforge.net/lxle/lxle-18043-64.iso
   - **PLEASE NOTE** DO NOT download the latest from the LXLE site since all our softwares are compiled for this version of LXLE.
   - The download will be a CD/DVD image called an **ISO image** (eg. lxle-18043-64.iso) that you save it on your computer (eg. C:\Users\<username>\Downloads)
   - **NOTE** The ISO file is about 1.2GB in size!!
